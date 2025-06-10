@@ -56,14 +56,15 @@ The most easiest columns to add are conditional columns and custom calcs. For mo
 
 Its worth having some understanding of some M, be aware though there are over 700 functions, its case sensitive and no-one likes writing it by hand .If the custom column formulas need explanation the documentation can be found here
 
-[POwer Query M Function Reference - Microsoft](https://learn.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
+[Power Query M Function Reference - Microsoft](https://learn.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
 
-## Best Practices
+## Duplicating and Referencing Queries
 
-Renaming steps, adding comments and using parameters are some of the best practices recommended.
+Often queries will depend upon other queries for example converting a flat file into a set of dim and fact tables. Sometimes duplicating a query is the best solution for a back up or creating a new independent query.
 
-* [Best practices - Microsoft](https://learn.microsoft.com/en-us/power-query/best-practices)
-* [Creating New Parameters](https://hatfullofdata.blog/power-query-creating-new-parameters/)
+[Reference vs Duplicate - Radacad](https://radacad.com/reference-vs-duplicate-in-power-bi-power-query-back-to-basics/)
+
+
 
 ## Loading Data into Power BI Desktop
 
@@ -71,4 +72,9 @@ When all the data transformations have been done click on Close and Apply on the
 
 ![Close & Apply button and Enable load on the menu](<Images/Load data.png>)
 
-On the same right click menu are useful features like Duplicate and Reference.
+## Best Practices
+
+Renaming steps, adding comments and using parameters are some of the best practices recommended.
+
+* [Best practices - Microsoft](https://learn.microsoft.com/en-us/power-query/best-practices)
+* [Creating New Parameters](https://hatfullofdata.blog/power-query-creating-new-parameters/)
