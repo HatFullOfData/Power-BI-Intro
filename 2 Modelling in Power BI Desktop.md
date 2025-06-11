@@ -20,7 +20,7 @@ Total Revenue = SUM ( Sales[Revenue] )
 
 Make sure measures have the right Home table and that each measure is formatted.
 
-See the Advanced DAX section for more complex DAX
+See the Advanced DAX section for more DAX ideas.
 
 
 ## Relationships

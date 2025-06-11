@@ -2,7 +2,7 @@
 
 > DAX is simple, but it is not easy. *Alberto Ferrari*
 
-For an introduction course we only touch on the simplest concepts in DAX so these are the advanced parts for this course, DAX goes way more advanced that this.
+For an introduction course we only touch on the simplest concepts in DAX so these are the advanced parts for this course, DAX goes way more advanced that this but thats a different course.
 
 ## Calculate Function
 

@@ -6,9 +6,13 @@ There are lots of visuals in Power BI. A few visuals on a page showing the right
 
 ## General Visuals
 
+Aim for 3-4 visuals that tell the story you are trying to tell.
+
 * [Adding Visuals - Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-report-add-visualizations-i)
 
 ## Tables and Matrix
+
+Tables and Matrix have their place but only work for some audiences so know your audience.
 
 * [Tables - Microsoft](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-tables)
 * [Matrix - Microsoft](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-matrix-visual)
@@ -22,7 +26,7 @@ Being able to filter a report is what make a report dynamic and better than fixe
 
 ## Text Boxes
 
-Text boxes can include values from the report using SMart Narrative features.
+Text boxes can include values from the report using Smart Narrative features.
 
 [Smart Narratives - Laura GB](https://hatfullofdata.blog/power-bi-creating-a-custom-smart-narrative/)
 
@@ -36,3 +40,4 @@ Making a page look professional with borders and boxes will impact a report disp
 
 The colour selection for a report is based on the selected theme.
 
+[Report Themes - Microsoft](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-report-themes)
